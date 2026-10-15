@@ -7,8 +7,8 @@ B.Tech Freshmen Engineering Department, KL University (A.Y 2026-27, Trimester I)
 |---|---|
 | Student | V. Bhuvan Sai Teja (Roll No. 2620030671) |
 | Teammate | Shloka Bomma (Roll No. 2620030679) |
-| Section / Team | 13 /  |
-| Guide | _<add guide name>_ |
+| Section / Team | 13  |
+| Guide | N.Chaitanya Kumar  |
 | Repository https://github.com/veeramachinenibhuvansaiteja/CourseRegistrationandTimetableBuilder/edit/main/README.md |
 
 ## 1. Problem statement
