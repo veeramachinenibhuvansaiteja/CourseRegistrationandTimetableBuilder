@@ -9,7 +9,7 @@ B.Tech Freshmen Engineering Department, KL University (A.Y 2026-27, Trimester I)
 | Teammate | Shloka Bomma (Roll No. 2620030679) |
 | Section / Team | 13 /  |
 | Guide | _<add guide name>_ |
-| Repository  |
+| Repository https://github.com/veeramachinenibhuvansaiteja/CourseRegistrationandTimetableBuilder/edit/main/README.md |
 
 ## 1. Problem statement
 Students pick courses by hand, can go over the credit limit, and may end up with two classes at
